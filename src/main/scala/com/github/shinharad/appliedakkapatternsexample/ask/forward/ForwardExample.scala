@@ -1,4 +1,4 @@
-package com.github.shinharad.appliedakkaexample.ask.forward
+package com.github.shinharad.appliedakkapatternsexample.ask.forward
 
 import akka.actor.{Actor, ActorSystem, Props}
 import akka.pattern.ask

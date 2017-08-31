@@ -1,4 +1,4 @@
-package com.github.shinharad.appliedakkaexample.ask.promise
+package com.github.shinharad.appliedakkapatternsexample.ask.promise
 
 import akka.actor.{Actor, ActorSystem, Props}
 import akka.util.Timeout

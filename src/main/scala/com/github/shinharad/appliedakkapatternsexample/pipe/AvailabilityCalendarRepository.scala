@@ -1,4 +1,4 @@
-package com.github.shinharad.appliedakkaexample.pipe
+package com.github.shinharad.appliedakkapatternsexample.pipe
 
 import scala.concurrent.Future
 

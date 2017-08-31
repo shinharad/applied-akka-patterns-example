@@ -1,4 +1,4 @@
-package com.github.shinharad.appliedakkaexample.pipe
+package com.github.shinharad.appliedakkapatternsexample.pipe
 
 case class Resource(value: String) extends AnyVal
 

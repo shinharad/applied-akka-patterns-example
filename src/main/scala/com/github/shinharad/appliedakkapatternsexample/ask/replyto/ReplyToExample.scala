@@ -1,4 +1,4 @@
-package com.github.shinharad.appliedakkaexample.ask.replyto
+package com.github.shinharad.appliedakkapatternsexample.ask.replyto
 
 import akka.actor.{Actor, ActorRef, ActorSystem, Props}
 import akka.pattern.ask

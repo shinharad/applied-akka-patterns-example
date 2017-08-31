@@ -1,4 +1,4 @@
-package com.github.shinharad.appliedakkaexample.become
+package com.github.shinharad.appliedakkapatternsexample.become
 
 import akka.actor.Actor
 

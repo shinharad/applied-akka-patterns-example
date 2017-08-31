@@ -1,9 +1,9 @@
-package com.github.shinharad.appliedakkaexample.ask.bad
+package com.github.shinharad.appliedakkapatternsexample.ask.bad
 
 import akka.actor.{Actor, ActorSystem, Props}
 import akka.pattern.{ask, pipe}
 import akka.util.Timeout
-import com.github.shinharad.appliedakkaexample.ask.bad
+import com.github.shinharad.appliedakkapatternsexample.ask.bad
 
 import scala.concurrent.Await
 import scala.concurrent.ExecutionContext.Implicits.global
