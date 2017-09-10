@@ -10,7 +10,8 @@ lazy val root = (project in file("."))
       val akkaV = "2.5.4"
       Seq(
         "com.typesafe.akka" %% "akka-actor" % akkaV,
-        "com.typesafe.akka" %% "akka-persistence" % akkaV
+        "com.typesafe.akka" %% "akka-persistence" % akkaV,
+        "com.typesafe.akka" %% "akka-distributed-data" % akkaV
 //        "com.typesafe.akka" %% "akka-remote" % akkaV,
 //        "com.typesafe.akka" %% "akka-cluster" % akkaV,
 //        "com.typesafe.akka" %% "akka-cluster-tools" % akkaV,
